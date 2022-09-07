@@ -1,4 +1,4 @@
-function reverse(str) {
+function reverseWords(str){
 
     let strSplit = str.split(" ");
     let strRevers = strSplit.reverse();
